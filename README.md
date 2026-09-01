@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hey, I'm Timo
 
-<!--
-**TitiTimo/TitiTimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a young developer passionate about software development, programming languages, and open-source projects.
 
-Here are some ideas to get you started:
+## 🚀 Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🏢 **Founder of Page** — Building projects and an ecosystem with Cloudy
+* 🛠️ **Semi** — https://github.com/set-semi
+* 📝 **.pg** — An experimental programming language I'm currently developing
+* 💻 **Sincere OS** — An operating system project under Page, mainly developed by Cloudy
+
+## 🌱 Currently Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=lua,cs,cpp,rust,python" height="48" alt="Lua, C#, C++, Rust and Python" />
+  <img src="https://raw.githubusercontent.com/luau-lang/site/master/logo.svg" height="48" alt="Luau" />
+</p>
+
+## 💡 About Me
+
+* 💻 Interested in software engineering
+* 📝 Building programming languages and developer tools
+* 🎮 Experienced with Lua and Luau development
+* 🔐 Learning cybersecurity and reverse engineering
+* 🚀 Founder of Page
+* 🤝 Working alongside Cloudy
+* 📚 Always learning and experimenting with new technologies
+
+## 🔗 Links
+
+* 🏢 **Page:** https://github.com/page-studios
+* 🛠️ **Semi:** https://github.com/set-semi
+* 💬 **Semi Discord:** https://dsc.gg/set-semi
+* 💻 **Sincere OS:** https://github.com/sincereOS
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=github_dark)
+
+---
+
+> "Learn, build, improve, repeat."
